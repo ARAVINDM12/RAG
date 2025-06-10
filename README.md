@@ -1,6 +1,6 @@
-**📚 RAG – AI-Powered Document Question Answering**
-    
-    Chat with your file is an advanced Retrieval-Augmented Generation (RAG) based chatbot app that allows users to upload or select files and ask questions about their     contents. It uses LangChain, Google Gemini API, and FAISS for fast, context-specific responses powered by local vector search and LLMs.
+# **📚 RAG – AI-Powered Document Question Answering**
+An advanced Retrieval-Augmented Generation (RAG) based chatbot app that allows users to upload or select files and ask questions about their     contents. It uses LangChain, Google Gemini API, and FAISS for fast, context-specific responses powered by local vector search and LLMs.
+
 
 **🤖 Smart Multi-Document Assistant**
 
